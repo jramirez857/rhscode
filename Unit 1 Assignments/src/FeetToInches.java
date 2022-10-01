@@ -14,7 +14,7 @@ public class FeetToInches
   public static int toInches(int feet, int inches)
   {
 
-    ______________________________ ;
+    return feet * 12 + inches;
   }
 
   public static void main(String[] args)
